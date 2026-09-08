@@ -38,7 +38,12 @@ WV    WV 0.05583188 0.06413520 0.1307114   0.8705342
 
 
 3. Examine the PCA output. How would you describe the population structure of S. saxatilis, if there is any? Are there any patterns of distinctness among states or localities (subpopulations)?
-
+There is fairly robust clustering of WV points between 4-10 for PC1, with little variation in PC2. This points to minimal differentiation between WV subpopulations, more recent shared ancestory, and less structure 
+compared to the OH and VA populations. Most variation in OH and VA subpopulations is occuring across PC1, with some unfiltered outliers remaining that are creating variation in PC2. 
+One OH subpopulation, OH-LV, appears distinct from most other OH subpopulations, with large variation across PC1 compared to the remaining OH subpopulations
+that are heavily clustered with the WV cluster. The VA subpopulations have the most varation across both principal components, with multiple subpopulations
+scattered widely compared to the clustering of WV and most OH subpopulations. This points to more genetic separation/isolation and distinct populations between 
+VA populations. 
 
 
 
